@@ -8,10 +8,10 @@
     "test": "mocha"
   },
   "dependencies": {
-    "ganache-cli": "^6.5.0",
+    "@truffle/hdwallet-provider": "^1.0.18",
+    "ganache-cli": "^6.7.0",
     "mocha": "^6.2.0",
-    "solc": "^0.5.10",
-    "truffle-hdwallet-provider": "^1.0.15",
-    "web3": "1.2.0"
+    "solc": "^0.5.11",
+    "web3": "1.2.1"
   }
 }
